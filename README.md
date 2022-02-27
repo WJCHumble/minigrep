@@ -4,7 +4,7 @@ A mini version of grep written in Rust. And it's also an example for validating 
 
 ## Usage
 
-Finds string in the contents of the specified file. For example, look for `run` in the contents of `poem.txt`：
+Finds string in the contents of the specified file. For example, look for `to` in the contents of `poem.txt`：
 
 ```bash
 cargo run to poem.tx
